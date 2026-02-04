@@ -1,0 +1,25 @@
+[2026-02-04 20:14:10] Client connected: ('127.0.0.1', 56698)
+
+Data received: Halo PyNet Monitor
+
+
+[2026-02-04 20:23:20] Client connected: ('127.0.0.1', 55012)
+
+Data received: Test Monitoring Jaringan
+
+[2026-02-04 20:23:28] Client connected: ('127.0.0.1', 63969)
+
+Data received: Test Monitoring Jaringan
+
+[2026-02-04 20:33:27] Client connected: ('127.0.0.1', 49242)
+
+Data received: Test Monitoring Jaringan
+
+[2026-02-04 20:33:28] Client connected: ('127.0.0.1', 49243)
+
+Data received: Test Monitoring Jaringan
+
+[2026-02-04 20:39:09] nogi (127.0.0.1) : halo
+
+[2026-02-04 20:46:42] nogi (127.0.0.1) : 123
+
